@@ -37,7 +37,7 @@ Valentina Belén Dolce
 -Entregable: 
 -Período de entrega: 16/09/2026 a 26/09/2026
 
-# Actividad 05
+## Actividad 05
 -Consigna: 
 -Entregable: 
 -Período de entrega: 23/09/2026 a 03/10/2026
