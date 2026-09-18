@@ -20,12 +20,12 @@ Valentina Belén Dolce
 ## Actividad 01
 -Consigna: A partir del escenario de Aurora Market, se debe analizar el objetivo, alcance, autorización, tipo de pentest, planificación, fases y metodología, además de realizar una pequeña investigación
 -Entregable: PDF de 5 páginas (Máximo)
--Período de entrega: 26/08/2026 a 05/09/2026
+-Período de entrega: 26/08/2026 a 05/09/2026. Entregado 04/09/2026
 
 ## Actividad 02
--Consigna: 
--Entregable: 
--Período de entrega: 02/09/2026 a 12/09/2026
+-Consigna: A partir del objetivo autorizado scanme.nmap.org, el reto será seleccionar los comandos que se consideren necesarios para explorar el objetivo, identificar puertos y servicios, analizar los resultados y comparar diferentes técnicas.
+-Entregable: reporte de evidencias en PDF, donde se deberán documentar al menos 10 comandos, con sus resultados y sus conclusiones.
+-Período de entrega: 10/09/2026 a 20/09/2026. Entregado 17/09/2026.
 
 ## Actividad 03
 -Consigna: 
